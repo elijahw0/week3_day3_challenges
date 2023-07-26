@@ -1,12 +1,12 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+/* _________ {
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
     text-align: center;
-}
+} */
 
 /* Record your solutions here:
    #1 -
@@ -16,3 +16,38 @@ _________ {
    #5 -
 
    e.g. - .pika               */
+/* div{
+   font-famiy: Helvetica;
+   font-size:300%;
+   color: yellow;
+   border:3px solid black;
+   text-align: center;
+} */
+#unique{
+   font-famiy: Helvetica;
+   font-size:300%;
+   color: yellow;
+   border:3px solid black;
+   text-align: center;
+}
+/* .pika{
+   font-famiy: Helvetica;
+   font-size:300%;
+   color: yellow;
+   border:3px solid black;
+   text-align: center;
+} */
+/* head{
+   font-famiy: Helvetica;
+   font-size:300%;
+   color: yellow;
+   border:3px solid black;
+   text-align: center;
+} */
+/* body{
+   font-famiy: Helvetica;
+   font-size:300%;
+   color: yellow;
+   border:3px solid black;
+   text-align: center;
+} */
